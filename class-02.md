@@ -35,7 +35,7 @@ checking a page is ready to work with we can use JQuery.ready method
 or the shortcut 
 '$(function(){
 // some code
-});
+});'
 
 ### Some JQuery methods
 1. '.html()'
