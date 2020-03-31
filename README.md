@@ -15,7 +15,7 @@ Ducket books are
 | Read 1  | SMACSS and Responsive Web Design/[link](https://rowaidsayyed.github.io/readingNotes301/class-01)     |
 | Read 2  | jQuery, Events, and The DOM/[link](https://rowaidsayyed.github.io/readingNotes301/class-02)          | 
 | Read 3  | Flexbox and Templating/[link](https://rowaidsayyed.github.io/readingNotes301/class-03)               |
-| Read 4  |     |
+| Read 4  | Responsive Web Design and Regular Expressions/[link](https://rowaidsayyed.github.io/readingNotes301/class-04)    |
 | Read 5  |     |
 | Read 6  |     |
 | Read 7  |     |
