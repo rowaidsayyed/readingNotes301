@@ -16,7 +16,7 @@ Ducket books are
 | Read 2  | jQuery, Events, and The DOM/[link](https://rowaidsayyed.github.io/readingNotes301/class-02)          | 
 | Read 3  | Flexbox and Templating/[link](https://rowaidsayyed.github.io/readingNotes301/class-03)               |
 | Read 4  | Responsive Web Design and Regular Expressions/[link](https://rowaidsayyed.github.io/readingNotes301/class-04)    |
-| Read 5  |     |
+| Read 5  | Heroku Deployment/[link](https://rowaidsayyed.github.io/readingNotes301/class-05)                    |
 | Read 6  |     |
 | Read 7  |     |
 | Read 8  |     |
