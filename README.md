@@ -17,8 +17,8 @@ Ducket books are
 | Read 3  | Flexbox and Templating/[link](https://rowaidsayyed.github.io/readingNotes301/class-03)               |
 | Read 4  | Responsive Web Design and Regular Expressions/[link](https://rowaidsayyed.github.io/readingNotes301/class-04)    |
 | Read 5  | Heroku Deployment/[link](https://rowaidsayyed.github.io/readingNotes301/class-05)                    |
-| Read 6  | Node, Express, and APIs/[link](https://rowaidsayyed.github.io/readingNotes301/class-05)              |
-| Read 7  |     |
+| Read 6  | Node, Express, and APIs/[link](https://rowaidsayyed.github.io/readingNotes301/class-06)              |
+| Read 7  | API[link](https://rowaidsayyed.github.io/readingNotes301/class-07)                                   |
 | Read 8  |     |
 | Read 9  |     |
 | Read 10 |     |
