@@ -21,7 +21,7 @@ Ducket books are
 | Read 7  | API/[link](https://rowaidsayyed.github.io/readingNotes301/class-07)                                  |
 | Read 8  | SQL/[link](https://rowaidsayyed.github.io/readingNotes301/class-08)                                  |
 | Read 9  | Refactoring/[link](https://rowaidsayyed.github.io/readingNotes301/class-09)                          |
-| Read 10 |     |
+| Read 10 | The Call Stack and Debugging/[link](https://rowaidsayyed.github.io/readingNotes301/class-10)         |
 | Read 11 |     |
 | Read 12 |     |
 | Read 13 |     |
