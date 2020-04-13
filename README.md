@@ -23,7 +23,7 @@ Ducket books are
 | Read 9  | Refactoring/[link](https://rowaidsayyed.github.io/readingNotes301/class-09)                          |
 | Read 10 | The Call Stack and Debugging/[link](https://rowaidsayyed.github.io/readingNotes301/class-10)         |
 | Read 11 | EJ/[link](https://rowaidsayyed.github.io/readingNotes301/class-11)                                   |
-| Read 12 |     |
-| Read 13 |     |
+| Read 12 | Components/[link](https://rowaidsayyed.github.io/readingNotes301/class-12)    |
+| Read 13 | Update--Delete/[link](https://rowaidsayyed.github.io/readingNotes301/class-13)    |
 | Read 14 |     |
 | Read 15 |     |
